@@ -1,6 +1,6 @@
 # Extinguisher_Detection_Gazebo
 
-KHU robotics club Hyper's summer project.
+2023.06 ~ 2023.08 Summer 2023 Hyper Robotics Project
 
 ## 개발 환경
 
